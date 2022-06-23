@@ -24,5 +24,6 @@ let handler = async (m, { conn, text }) => {
 handler.help = ['ytsearch <query>']
 handler.tags = ['tools', 'internet']
 handler.command = /^yts(earch)?$/i
+//letsgo
 
 module.exports = handler
