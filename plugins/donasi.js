@@ -1,12 +1,12 @@
 let handler = async (m, { conn, usedPrefix }) => conn.sendButton(m.chat, `
 ╭─「 Donasi • Dana 」
-│ • Tri [0895336282144]
-│ • Gopay  [0895336282144]
-│ • Dana  [0895336282144]
-│ • Saweria  [https://saweria.co/thesadboy01]
+│ • Telkomsel [085156873853]
+│ • Gopay  [085156873853]
+│ • Dana  [085156873853]
+│ • Trakteer  [https://trakteer.id/menrui]
 ╰────
 ╭─「 *NOTE* 」
-│ > Ingin donasi? Wa.me/62895336282144
+│ > Ingin donasi? Wa.me/6285156873853
 │ _Hasil donasi akan digunakan buat sewa_
 │ _atau beli *RDP/VPS* agar bot bisa jalan_
 │ _24jam tanpa kendala_
